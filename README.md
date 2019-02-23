@@ -4,7 +4,12 @@
 
 
 <!-- Images showing CLI works! -->
-![Screen Pics of App Output](./)
+![Screen Pics of App Output]("/images/bands in town.jpg")
+![Screen Pics of App Output]("/images/do what I say liri.jpg")
+![Screen Pics of App Output]("/images/log text file.jpg")
+![Screen Pics of App Output]("/images/omdb movie.jpg")
+![Screen Pics of App Output]("/images/spotify song.jpg")
+
 
 
 ### Project Explanation
