@@ -6,7 +6,7 @@ require("dotenv").config();
 let fs = require("fs");
 let request = require('request');
 let figlet = require('figlet');
-var keys = require("../../keys.js/index.js");
+var keys = require("./keys");
 let Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
 
@@ -177,8 +177,7 @@ function omdbInfo(parameter) {
       display(chalk.blue("\n---------------------------------------------------\n"));
       display(chalk.green("Title: " + bodyOf.Title));
       display(chalk.green("Release Year: " + bodyOf.Year));
-      display(chalk.green("IMDB Rating: " + bodyOf.imdbRating));
-      display(chalk.green("Rotten Tomatoes Rating: " + bodyOf.Ratings[1].Value)); 
+      display(chalk.green("IMDB Rating: " + bodyOf.imdbRating)); 
       display(chalk.green("Country: " + bodyOf.Country));
       display(chalk.green("Language: " + bodyOf.Language));
       display(chalk.green("Plot: " + bodyOf.Plot));
