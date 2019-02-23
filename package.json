@@ -1,0 +1,29 @@
+{
+  "name": "liriNodeApp",
+  "version": "1.0.0",
+  "description": "Liri App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uclashawn1/liriNodeApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uclashawn1/liriNodeApp/issues"
+  },
+  "homepage": "https://github.com/uclashawn1/liriNodeApp#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.2",
+    "dotenv": "^6.2.0",
+    "figlet": "^1.2.1",
+    "fs": "0.0.1-security",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0"
+  }
+}
