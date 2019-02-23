@@ -4,12 +4,11 @@
 
 
 <!-- Images showing CLI works! -->
-![Screen Pics of App Output]("/images/bands in town.jpg")
-![Screen Pics of App Output]("/images/do what I say liri.jpg")
-![Screen Pics of App Output]("/images/log text file.jpg")
-![Screen Pics of App Output]("/images/omdb movie.jpg")
-![Screen Pics of App Output]("/images/spotify song.jpg")
-
+![Screen Pics of App Output](/images/bndNTown.jpg)
+![Screen Pics of App Output](/images/doThisLiri.jpg)
+![Screen Pics of App Output](/images/logTextFile.jpg)
+![Screen Pics of App Output](/images/omdbMovie.jpg)
+![Screen Pics of App Output](/images/spotifySong.jpg)
 
 
 ### Project Explanation
